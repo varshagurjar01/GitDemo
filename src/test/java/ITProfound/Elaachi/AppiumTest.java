@@ -11,6 +11,11 @@ public class AppiumTest {
 		System.out.println("automation 2");
 		System.out.println("automation 3");
 		System.out.println("automation 4");
+		
+		System.out.println("automation 5");
+		System.out.println("automation 6");
+		System.out.println("automation 7");
+		
 
 	}
 }
